@@ -8,7 +8,7 @@ Nate Social Media adalah aplikasi media sosial sederhana yang memungkinkan pengg
 - Sistem like untuk menyukai posting orang lain
 - Fitur komentar untuk berinteraksi dengan posting
 
-## Projek ini masih terus dikembangkan, PR yang akan datang 
+## PR Yang Akan Datang
 - Urutan postingan harusnya yang terbaru paling atas, orderBy('created_at', 'desc').
 - Tombol share sudah mencatat ke database, namun belum ditampilkan ke profil yang membagikan
 - Nama di beranda belum clickable ke profil masing-masing
