@@ -19,6 +19,7 @@ Proyek ini masih terus dikembangkan,
 - Setiap posting komentar / memberi like / share, masih reload, menyebabkan tampilan kembali ke atas. Repot kalau lagi kasih komentar saat scroll dibawah menyebbakan ngulang scroll lagi kebawah :D 
 - Melihat detil postingan dalam 1 halaman / zoom foto
 - Chat satu arah
+- Dark mode
 
 ## Instalasi
 1. Clone repository ini ke komputer lokal Anda.
