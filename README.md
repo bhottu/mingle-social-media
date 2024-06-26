@@ -1,4 +1,4 @@
-# Mingle v1.0.2 created by Nate Nasution { :indonesia: }
+# Mingle v1.0.2 created by Nate Nasution <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png" alt="Saweria" width="30" />
 
 
 Mingle is a simple social media application that allows users to share posts, like other people's posts, and interact through comments. This project is still under active development.
