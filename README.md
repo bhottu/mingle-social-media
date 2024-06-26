@@ -1,55 +1,54 @@
-# Mingle v1.0.2 created by Nate Nasution 
+# Mingle v1.0.2 created by Nate Nasution { :indonesia: }
 
-Mingle adalah aplikasi media sosial sederhana yang memungkinkan pengguna untuk berbagi posting, menyukai posting orang lain, dan berinteraksi dalam bentuk komentar.
-Proyek ini masih terus dikembangkan,
 
-## Fitur Utama
-- Beranda untuk melihat posting terbaru dari pengguna lain
-- Kemampuan untuk membuat posting baru dengan teks dan gambar
-- Sistem like untuk menyukai posting orang lain
-- Fitur komentar untuk berinteraksi dengan posting
+Mingle is a simple social media application that allows users to share posts, like other people's posts, and interact through comments. This project is still under active development.
 
-## Fitur Baru
-- Edit & Delete post
+## Key Features
+- Home feed to view latest posts from other users.
+- Ability to create new posts with text and images.
+- Like system to appreciate posts from others.
+- Comment feature to interact with posts.
 
-## PR Yang Akan Datang
-- (Fixed) Urutan postingan harusnya yang terbaru paling atas, orderBy('created_at', 'desc').
-- (Fixed) Tombol share sudah mencatat ke database, namun belum ditampilkan ke profil yang membagikan
-- (Fixed) Nama di beranda belum clickable ke profil masing-masing
-- Setiap posting komentar / memberi like / share, masih reload, menyebabkan tampilan kembali ke atas. Repot kalau lagi kasih komentar saat scroll dibawah menyebbakan ngulang scroll lagi kebawah :D 
-- Melihat detil postingan dalam 1 halaman / zoom foto
-- Chat satu arah
-- Dark mode
+## New Features
+- Edit & Delete posts.
 
-## Instalasi
-1. Clone repository ini ke komputer lokal Anda.
-2. Buka terminal dan arahkan ke direktori proyek.
-3. Jalankan `composer install` untuk menginstal dependencies.
-4. Salin file `.env.example` menjadi `.env` dan sesuaikan pengaturan database.
-5. Jalankan `php artisan key:generate` untuk menghasilkan kunci aplikasi.
-6. Jalankan `php artisan migrate` untuk menjalankan migrasi database.
-7. Jalankan `php artisan serve` untuk memulai server lokal.
+## Upcoming PRs
+- (Fixed) Post order should be displayed with the most recent on top, orderBy('created_at', 'desc').
+- (Fixed) Share button now records in the database but is not yet displayed on the sharer's profile.
+- (Fixed) User names on the home feed are not clickable to their respective profiles.
+- Every action such as commenting, liking, or sharing causes a page reload, scrolling back to the top. Quite bothersome when trying to comment while scrolling down :D
+- View post details on a single page / zoom into photos.
+- One-way chat.
+- Dark mode.
 
-## Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini, silakan buka *Issues* untuk melihat daftar tugas yang perlu dikerjakan. Anda juga dapat mengirimkan *Pull Request* dengan perubahan yang diusulkan.
+## Installation
+1. Clone this repository to your local machine.
+2. Open a terminal and navigate to the project directory.
+3. Run `composer install` to install dependencies.
+4. Copy `.env.example` file to `.env` and configure database settings.
+5. Run `php artisan key:generate` to generate an application key.
+6. Run `php artisan migrate` to run database migrations.
+7. Run `php artisan serve` to start the local server.
 
-## Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
+## Contribution
+If you wish to contribute to this project, please check the *Issues* tab for a list of tasks that need to be done. You can also submit a *Pull Request* with proposed changes.
 
-## Dukungan / Donasi
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-Halo semua! 👋
+## Support / Donation
 
-Terima kasih telah mengunjungi repositori saya. Senang jika proyek ini bisa bermanfaat untuk Anda. Jika Anda merasa proyek ini membantu, Anda dapat mendukung saya melalui donasi.
+Hello everyone! 👋
 
-Setiap donasi yang Anda berikan akan berarti, sebagai bentuk dukungan untuk terus mengembangkan proyek ini serta membuat lebih banyak lagi proyek open source yang bermanfaat.
+Thank you for visiting my repository. I'm glad if this project is helpful to you. If you find it useful and would like to support its development or contribute to more useful open-source projects, you can make a donation.
+
+Every donation you give will mean a lot, as a form of support to continue developing this project and creating more useful open-source projects.
 
 <a href="https://saweria.co/bhottu" target="_blank">
     <img src="https://github.com/bhottu/nate-social-media/assets/35356275/b0a6053d-4033-467f-8578-e99abed81710" alt="Saweria" width="200" />
 </a>
 
-Terima kasih banyak atas dukungan dan apresiasinya! 🙏
-
+Thank you very much for your support and appreciation! 🙏
 
 ## Screenshots
 
@@ -67,4 +66,3 @@ Terima kasih banyak atas dukungan dan apresiasinya! 🙏
     <img src="https://github.com/bhottu/nate-social-media/assets/35356275/6c305754-b9f2-4308-ac42-2d66e161cb65" alt="Screenshot 4" width="200" />
   </div>
 </div>
-
