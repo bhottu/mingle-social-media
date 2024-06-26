@@ -43,6 +43,8 @@ Terima kasih telah mengunjungi repositori saya. Senang jika proyek ini bisa berm
 
 Setiap donasi yang Anda berikan akan berarti, sebagai bentuk dukungan untuk terus mengembangkan proyek ini serta membuat lebih banyak lagi proyek open source yang bermanfaat.
 
-[![Klik untuk donasi](https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75)](https://saweria.co/bhottu)
+<a href="https://saweria.co/bhottu" target="_blank">
+    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/b0a6053d-4033-467f-8578-e99abed81710" alt="Saweria" width="200" />
+</a>
 
 Terima kasih banyak atas dukungan dan apresiasinya! 🙏
