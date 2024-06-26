@@ -49,3 +49,22 @@ Setiap donasi yang Anda berikan akan berarti, sebagai bentuk dukungan untuk teru
 </a>
 
 Terima kasih banyak atas dukungan dan apresiasinya! 🙏
+
+
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1 1 30%; margin: 5px;">
+    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/359eaa10-380f-4ea9-95f6-28cd587c4e2f" alt="Screenshot 1" width="200"/>
+  </div>
+  <div style="flex: 1 1 30%; margin: 5px;">
+    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/abf3d4bc-0dac-44e4-82b1-a53cd468669b" alt="Screenshot 2" width="200" />
+  </div>
+  <div style="flex: 1 1 30%; margin: 5px;">
+    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/7a49ad52-95b4-40f0-b3c2-34ae750c9943" alt="Screenshot 3" width="200" />
+  </div>
+  <div style="flex: 1 1 30%; margin: 5px;">
+    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/6c305754-b9f2-4308-ac42-2d66e161cb65" alt="Screenshot 4" width="200" />
+  </div>
+</div>
+
