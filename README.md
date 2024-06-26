@@ -12,7 +12,7 @@ Mingle is a simple social media application that allows users to share posts, li
 ## New Features
 - Edit & Delete posts.
 
-## Upcoming PRs
+## Upcoming Update
 - (Fixed) Post order should be displayed with the most recent on top, orderBy('created_at', 'desc').
 - (Fixed) Share button now records in the database but is not yet displayed on the sharer's profile.
 - (Fixed) User names on the home feed are not clickable to their respective profiles.
