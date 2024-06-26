@@ -28,7 +28,8 @@ Route::post('post/{postId}/like', [LikeController::class, 'addLike'])->name('pos
 Route::post('post/{post}/share', [PostController::class, 'addShare'])->name('post.share');
 Route::post('post/{post}/comment', [PostController::class, 'addComment'])->name('post.comment');
 
-//Route::get('/profile/{user}/shares', 'App\Http\Controllers\ProfileController@shares')->name('profile.shares');
-//Route::get('/profile/{user}/shares', [ProfileController::class, 'shares'])->name('profile.shares');
-
+Route::get('post/{post}/edit', [PostController::class, 'edit'])->name('post.edit')->middleware('auth');
+Route::put('post/{post}', [PostController::class, 'update'])->name('post.update')->middleware('auth');
+Route::delete('post/{post}', [PostController::class, 'destroy'])->name('post.destroy')->middleware('auth');
+Route::delete('/profile/posts/{share}', [PostController::class, 'sharedestroy'])->name('profile.posts.destroy')->middleware('auth');
 

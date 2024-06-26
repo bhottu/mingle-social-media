@@ -13,9 +13,10 @@ class HomeController extends Controller
 {
     public function index()
     {
-        $posts = Post::all(); // Ambil semua data dari model Post
-        return view('home', ['posts' => $posts]); // Kirim variabel $posts ke view home.blade.php
+        $posts = Post::orderBy('created_at', 'desc')->get(); 
+        return view('home', ['posts' => $posts]); 
     }
+    
 
     public function addComment(Request $request, Post $post) // Tambah komentar
     {
