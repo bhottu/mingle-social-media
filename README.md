@@ -29,6 +29,9 @@ Mingle is a simple social media application that allows users to share posts, li
 5. Run `php artisan key:generate` to generate an application key.
 6. Run `php artisan migrate` to run database migrations.
 7. Run `php artisan serve` to start the local server.
+8. If the image doesn't appear do this
+   <pre>rm public/storage
+   php artisan storage:link</pre>
 
 ## Contribution
 If you wish to contribute to this project, please check the *Issues* tab for a list of tasks that need to be done. You can also submit a *Pull Request* with proposed changes.
