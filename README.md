@@ -9,7 +9,6 @@ Mingle is a simple social media application that allows users to share posts, li
 - Comment feature to interact with posts.
 
 ## New Features
-<<<<<<< HEAD
 - Editable profil
 - Zoomable photos
 
@@ -17,12 +16,11 @@ Mingle is a simple social media application that allows users to share posts, li
 - (Fixed) Post order should be displayed with the most recent on top, orderBy('created_at', 'desc').
 - (Fixed) Share button now records in the database but is not yet displayed on the sharer's profile.
 - (Fixed) User names on the home feed are not clickable to their respective profiles.
-<<<<<<< HEAD
 - (Fixed) Editable profile (name, email, pass)
 - (Fixed) Dark mode.
 - (Still needs some improvements) Zoomable photos
 - Every action such as commenting, liking, or sharing causes a page reload, scrolling back to the top. Quite bothersome when trying to comment while scrolling down :D
-- View post details on a single page / zoom into photos.
+- View post details on a single page
 - One-way chat
 - Emoticon
 - Story
