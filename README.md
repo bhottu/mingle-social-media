@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # Mingle v1.0.3 created by Nate Nasution <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png" alt="Saweria" width="30" />
-=======
-# Mingle v1.0.2 created by Nate Nasution <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png" alt="Saweria" width="30" />
->>>>>>> f345e5917212ec2f38ee424937eca30c8405d9be
-
 
 Mingle is a simple social media application that allows users to share posts, like other people's posts, and interact through comments. This project is still under active development.
 
@@ -17,9 +12,6 @@ Mingle is a simple social media application that allows users to share posts, li
 <<<<<<< HEAD
 - Editable profil
 - Zoomable photos
-=======
-- Edit & Delete posts.
->>>>>>> f345e5917212ec2f38ee424937eca30c8405d9be
 
 ## Upcoming Update
 - (Fixed) Post order should be displayed with the most recent on top, orderBy('created_at', 'desc').
@@ -56,14 +48,12 @@ If you wish to contribute to this project, please check the *Issues* tab for a l
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Support / Donation
-
 Hello everyone! 👋
 
 Thank you for visiting my repository. I'm glad if this project is helpful to you. If you find it useful and would like to support its development or contribute to more useful open-source projects, you can make a donation.
 
 Every donation you give will mean a lot, as a form of support to continue developing this project and creating more useful open-source projects.
 
-=======
 - Every action such as commenting, liking, or sharing causes a page reload, scrolling back to the top. Quite bothersome when trying to comment while scrolling down :D
 - View post details on a single page / zoom into photos.
 - One-way chat.
@@ -95,7 +85,6 @@ Thank you for visiting my repository. I'm glad if this project is helpful to you
 
 Every donation you give will mean a lot, as a form of support to continue developing this project and creating more useful open-source projects.
 
->>>>>>> f345e5917212ec2f38ee424937eca30c8405d9be
 <a href="https://saweria.co/bhottu" target="_blank">
     <img src="https://github.com/bhottu/nate-social-media/assets/35356275/b0a6053d-4033-467f-8578-e99abed81710" alt="Saweria" width="200" />
 </a>
