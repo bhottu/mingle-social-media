@@ -1,6 +1,6 @@
 # Mingle v1.0.3 created by Nate Nasution <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png" alt="Saweria" width="30" />
 
-Mingle is a simple social media application that allows users to share posts, like other people's posts, and interact through comments. This project is still under active development.
+Mingle is a simple social media application that allows users to share posts, like other people's posts, and interact through comments. This project was built using laravel framework and still under active development.
 
 ## Key Features
 - Home feed to view latest posts from other users.
@@ -93,15 +93,21 @@ Thank you very much for your support and appreciation! 🙏
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1 1 30%; margin: 5px;">
-    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/359eaa10-380f-4ea9-95f6-28cd587c4e2f" alt="Screenshot 1" width="200"/>
+    <img src="https://github.com/bhottu/mingle-social-media/assets/35356275/cb14b9ff-ed46-44ea-9075-1c02f65ad082" alt="Screenshot 1" width="200"/>
   </div>
   <div style="flex: 1 1 30%; margin: 5px;">
-    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/abf3d4bc-0dac-44e4-82b1-a53cd468669b" alt="Screenshot 2" width="200" />
+    <img src="https://github.com/bhottu/mingle-social-media/assets/35356275/eb1258d4-c0db-4fde-80ab-6a0cdc278b5f" alt="Screenshot 2" width="200" />
   </div>
   <div style="flex: 1 1 30%; margin: 5px;">
-    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/7a49ad52-95b4-40f0-b3c2-34ae750c9943" alt="Screenshot 3" width="200" />
+    <img src="https://github.com/bhottu/mingle-social-media/assets/35356275/94ff1989-227c-42e1-8587-b2a2f7af98e3" alt="Screenshot 3" width="200" />
   </div>
   <div style="flex: 1 1 30%; margin: 5px;">
-    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/6c305754-b9f2-4308-ac42-2d66e161cb65" alt="Screenshot 4" width="200" />
+    <img src="https://github.com/bhottu/mingle-social-media/assets/35356275/f8aa2400-bd9d-4355-83a5-0a3b6c7de545" alt="Screenshot 4" width="200" />
+  </div>
+<div style="flex: 1 1 30%; margin: 5px;">
+    <img src="https://github.com/bhottu/mingle-social-media/assets/35356275/9dc211a7-f50c-408f-8959-4b32a410f89d" alt="Screenshot 4" width="200" />
+  </div>
+<div style="flex: 1 1 30%; margin: 5px;">
+    <img src="https://github.com/bhottu/mingle-social-media/assets/35356275/9051cd75-5a80-405b-b67f-c857ac7566eb" alt="Screenshot 4" width="200" />
   </div>
 </div>
