@@ -20,7 +20,7 @@ Mingle is a simple social media application that allows users to share posts, li
 - (Fixed) Dark mode.
 - (Still needs some improvements) Zoomable photos
 - Every action such as commenting, liking, or sharing causes a page reload, scrolling back to the top. Quite bothersome when trying to comment while scrolling down :D
-- View post details on a single page / zoom into photos.
+- View post details on a single page
 - One-way chat
 - Emoticon
 - Story
