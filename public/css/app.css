@@ -2,3 +2,32 @@
 .dropdown-toggle:focus + .dropdown-menu {
     display: block;
 }
+
+.bg-gray-800 {
+    background-color: rgba(0, 0, 0, 0.75);
+    
+}
+.bg-black {
+    background-color: rgba(0, 0, 0, 0.75); /* Latar belakang hitam transparan */
+}
+
+#popupImage {
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hide-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+#image-popup .overflow-y-auto {
+    max-height: calc(100vh - 80px); /* Set height minus some padding for better view */
+}

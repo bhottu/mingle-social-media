@@ -2,7 +2,14 @@
 
 @section('content')
 <div class="container mx-auto">
-    <form action="{{ route('register') }}" method="post" class="max-w-md mx-auto my-8">
+    <div class="max-w-md mx-auto my-8">
+        <!-- Logo -->
+        <div class="flex justify-center mb-4">
+            <img src="{{ asset('storage/images/logo.png') }}" alt="Logo" class="h-16 w-auto"> 
+        </div>
+        <!-- Login Form -->
+
+        <form action="{{ route('register') }}" method="post" class="max-w-md mx-auto my-8">
         @csrf
         <div class="mb-4">
             <label for="name" class="block text-sm font-medium text-gray-700">Name</label>
@@ -22,5 +29,6 @@
         </div>
         <button type="submit" class="w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Register</button>
     </form>
+    </div>
 </div>
 @endsection

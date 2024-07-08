@@ -85,8 +85,11 @@
 
              <h3 class="text-sm m-4 mb-3">{{ $post->caption }}</h3>
              @if($post->image)
-                <img src="{{ asset('storage/' . $post->image) }}" alt="Post Image" class="w-full h-auto mb-2">
+            
+                <img src="{{ asset('storage/' . $post->image) }}" alt="Post Image" class="w-full h-auto mb-2 cursor-pointer" onclick="openImagePopup('{{ asset('storage/' . $post->image) }}', '{{ $post->id }}')">
+           
              @endif
+             @include('components.ImagePopup', ['post' => $post])
             
                 <div class="flex justify-between items-center mt-4">
                 <div>
@@ -134,3 +137,4 @@
     @endforeach
 </div>
 @endsection
+

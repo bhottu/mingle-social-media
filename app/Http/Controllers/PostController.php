@@ -120,4 +120,11 @@ class PostController extends Controller
             }
         }
      // End Hapus shared
+
+     public function fetchComments($postId)
+    {
+        $post = Post::findOrFail($postId);
+        $comments = $post->comments()->with('user')->get();
+        return response()->json($comments);
+    }
 }
