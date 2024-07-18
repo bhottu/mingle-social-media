@@ -45,18 +45,6 @@ If you wish to contribute to this project, please check the *Issues* tab for a l
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Support / Donation
-Hello everyone! 👋
-
-Thank you for visiting my repository. I'm glad if this project is helpful to you. If you find it useful and would like to support its development or contribute to more useful open-source projects, you can make a donation.
-
-Every donation you give will mean a lot, as a form of support to continue developing this project and creating more useful open-source projects.
-
-- Every action such as commenting, liking, or sharing causes a page reload, scrolling back to the top. Quite bothersome when trying to comment while scrolling down :D
-- View post details on a single page / zoom into photos.
-- One-way chat.
-- Dark mode.
-
 ## Installation
 1. Clone this repository to your local machine.
 2. Open a terminal and navigate to the project directory.
