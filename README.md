@@ -71,7 +71,7 @@ Thank you for visiting my repository. I'm glad if this project is helpful to you
 
 Every donation you give will mean a lot, as a form of support to continue developing this project and creating more useful open-source projects.
 
-<a href="https://saweria.co/bhottu" target="_blank">
+<a href="https://saweria.co/natenasution" target="_blank">
     <img src="https://github.com/bhottu/nate-social-media/assets/35356275/b0a6053d-4033-467f-8578-e99abed81710" alt="Saweria" width="200" />
 </a>
 
